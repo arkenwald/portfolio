@@ -26,6 +26,9 @@ https://github.com/arkenwald/portfolio
 
 Screenshot of Live Page:
 
+![mockup](https://github.com/arkenwald/portfolio/assets/149994852/d2447820-f1a9-4e06-995b-dd3e96ef6e96)
+
+![mockup2](https://github.com/arkenwald/portfolio/assets/149994852/cc8c59bc-8d80-4729-b48e-1816662eeef8)
 
 ## Credits
 
