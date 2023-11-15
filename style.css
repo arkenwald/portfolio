@@ -66,7 +66,7 @@ body {
     position: relative;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+
 }
 .container a img {
     display: flex;
@@ -79,6 +79,7 @@ body {
     max-width: 800px;
     max-height: 200px;
     padding: 20px;
+
 }
 .text-block{
     position: absolute;
